@@ -1,27 +1,34 @@
-THE LOST MAZE - Final Project
+**THE LOST MAZE - Final Project**
 
-Files:
-- maze.py : main Python game
-- maze_history.txt      : created automatically after playing
+**Files:**
 
-Requirements:
+- `maze.py` : main Python game
+- `maze_history.txt` : created automatically after playing
+
+**Requirements:**
+
 - Python 3
 - No external libraries are required.
 
-How to run:
+**How to run:**
+
 1. Open Terminal / Command Prompt in this folder.
 2. Run:
 
-   python maze.py
+```bash
+python maze.py
+```
 
-Controls:
+**Controls:**
+
 - W = Up
 - S = Down
 - A = Left
 - D = Right
 - Q = Quit
 
-Symbols:
+**Symbols:**
+
 - P = Player
 - # = Wall
 - K = Key
@@ -29,7 +36,8 @@ Symbols:
 - $ = Treasure
 - E = Exit
 
-Game Features:
+**Game Features:**
+
 - 3 maze levels
 - Player health
 - Score system
