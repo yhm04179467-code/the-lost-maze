@@ -30,7 +30,7 @@ python maze.py
 **Symbols:**
 
 - P = Player
-- '#' = Wall
+- \# = Wall
 - K = Key
 - T = Trap
 - $ = Treasure
